@@ -1,0 +1,363 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+   
+}
+/* section header */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #fff;
+}
+
+.logo img {
+    height: 50px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+nav ul li {
+    margin: 0;
+    margin-right: 25px;
+}
+nav ul li a {
+    text-decoration: none;
+    color: #000;
+}
+
+nav ul li a.inscription {
+    background-color: #ff6600;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+/* section une */
+.accueil {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(9, 68, 58);
+    color: white;
+    padding-top: 50px;
+    border-radius: 5px 5px 5px 5px;
+    font-size: 1.1em;
+    margin-bottom: 11px;
+    height: 506px;
+}
+
+.introduction {
+    margin-left: 140px;
+}
+
+span {
+    color: #ea5e23;
+}
+
+.texte1 {
+    font-weight: bold;
+    font-size: 2.2em;
+}
+
+.Tel {
+    background-color: white;
+    color: #0b3936;
+    margin: 20px 20px 20px 20px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 6px 6px 6px 6px ;
+    font-size: 1.0em;
+}
+
+.ins{
+    background-color: #ea5e23;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 6px 6px 6px 6px;
+    font-size: 1.0em;
+}
+.person-image{
+    width: 380px;
+    height: 548px;
+    float: left;
+    object-fit:cover;
+    margin: 40px 20px 5px 280px;
+    /* margin: 109px; */
+    position: relative;
+    right: 87px;
+
+}
+.milieu {
+    background-color: #fff;
+    position: relative;
+    left: 415px;
+    top: 64px;
+    text-align: center;
+    margin: 490px 60px  99px  330px ;
+    position: absolute;
+    display: inline-block;
+    padding: 0px 20px 0px 20px;
+    color: #0b3936;
+}
+
+.milieu p {
+    font-weight: bold;
+}
+
+.milieu-images {
+    display: flex;
+    justify-content: center;
+}
+
+.milieu-images img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    padding: 2px;
+    background-color: #f2f2f2;
+}
+
+/* section developpement */
+.developpement {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 90px;
+    align-items: center;
+    margin-left: 90px;
+    margin-top: 175px;
+}
+
+strong {
+    font-weight: bold;
+    font-size: 2.2em;
+}
+
+.decouvre {
+    height: 60px;
+    width: 200px;
+    background-color: white; 
+    color: rgb(7, 71, 55); 
+    margin-right: 90px;
+    border-color: rgb(7, 71, 55);
+    border-radius: 5px 5px 5px 5px;
+    font-size: 1.2em;
+}
+.lor{
+    margin-left: 90px;
+}
+.contient1 {
+    display: grid;
+    grid-template-columns: 200px 200px;
+    grid-template-rows:  200px 200px;
+    gap: 130px;;
+    margin-right: 250px;
+    top: 302px;
+   
+}
+
+.groupe2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Profil-image2 {
+    height: 400px;
+    width: 490px;
+    background-color: orangered;
+    margin-left: 90px;
+    border-radius: 5px 5px 5px 5px;
+    margin-top: 50px;
+}
+
+.Photo {
+    width: 500px;
+    height: 468px;
+    border-radius: 5px 5px 5px 5px;
+    margin-left: 60px;
+    object-fit:cover;
+}
+
+.Formation-orientées {
+    background-color: white;
+    box-shadow: 6px 6px 14px rgba(0, 0, 0, 0.5);
+    padding: 10px 20px 10px 20px;
+    width: 250px;
+    margin: auto;
+    
+}
+
+.Formation-expertises {
+    background-color: white;
+    box-shadow: 6px 6px 14px rgba(0, 0, 0, 0.5);
+    padding: 10px 20px 10px 20px;
+    width: 250px;
+    margin: auto;
+    
+}
+
+.Formateurs {
+    background-color: white;
+    box-shadow: 6px 6px 25px rgb(0, 0, 0, 0.5);
+    padding: 10px 20px 10px 20px;
+    width: 250px;
+
+    
+   
+}
+
+.Cadre-idéal {
+    background-color: rgb(245, 189, 169);
+    box-shadow: 6px 6px 25px rgb(0, 0, 0, 0.5);
+    padding: 10px 20px 10px 20px;
+    width: 250px;
+    margin: auto;
+   
+}
+/* section trois */
+
+.en-tete {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 90px;
+    background: linear-gradient(120deg, white, rgba(208, 202, 208, 0.998));
+    align-items: center;
+}
+
+.Contient2 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-right: 60px;
+    margin-left: 90px;
+    text-align: center;
+    color: white;
+}
+
+.Photo2 {
+    height: 250px;
+    width: 260px;
+    background-color: red;
+    object-fit:cover;
+}
+
+.doc1 {
+    background-color: red;
+    font-size: 1.0em;
+}
+
+.Photo4 {
+    height: 250px;
+    width: 260px;
+    object-fit:cover;
+}
+.doc2 {
+    background-color: green;
+}
+
+.Photo5 {
+    height: 250px;
+    width: 260px;
+    object-fit:cover;
+}
+
+/* section quatre */
+
+.Photo6 {
+    height: 250px;
+    width: 260px;
+    object-fit:cover;
+}
+
+em{
+    color:#ea5e23;
+}
+.fer{
+    font-size: 2.0em;
+    font-weight: bold;
+    color:#ea5e23;
+}
+.feu{
+    box-shadow:  2px 2px 25px rgb(0, 0, 0, 0.5);
+    color:  rgb(26, 117, 26);
+   align-items:center;
+}
+.ri-arrow-right-line{
+    color: #ea5e23;
+}
+
+.Contenu {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-right: 90px;
+    margin-left: 90px;
+    text-align: center;
+    color: white;
+}
+
+.Photo9 {
+    height: 250px;
+    width: 260px;
+    background-color: red;
+}
+
+
+.Photo6 {
+    height: 250px;
+    width: 260px;
+}
+
+
+.Photo6 {
+    height: 250px;
+    width: 260px;
+}
+
+
+.Photo6 {
+    height: 250px;
+    width: 260px;
+}
+
+.une{
+    color:#ea5e23;
+}
+.fer{
+    font-size: 2.0em;
+    font-weight: bold;
+    color:#ea5e23;
+    display: inline;;
+}
+.feu{
+    box-shadow:  2px 2px 25px rgb(0, 0, 0, 0.5);
+    color: #0b3936;
+   align-items:center;
+   padding: 25px;
+}
+.ri-arrow-right-line{
+    color: #ea5e23;
+}
+/* .une{
+    font-size: 2.0em;
+} */
+.deux{
+    color: #165e15;
+}
+.belle{
+    font-size: 2.0em;
+    font-weight: bold;
+    color:#ea5e23;
+}
+.doc1 h2,
+.doc2 h2{
+    font-size: 1.3em;
+}
+.doc1 p,
+.doc2 p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+}

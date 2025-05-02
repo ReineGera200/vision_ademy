@@ -1,0 +1,98 @@
+    <section>
+        <section class="promo">
+            <h2>On ne recrute pas l'élite, on la forme !</h2>
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry...</p>
+            <button class="cta">Découvrir l'école</button>
+        </section>
+
+        <section class="video">
+            <img src="images/students.jpg" alt="Étudiants en formation">
+            <div class="overlay">
+                <button class="play">▶</button>
+            </div>
+        </section>
+
+        <section class="features">
+            <div class="feature">
+                <img src="images/formations_metiers.jpg" alt="Formations métiers">
+                <h3>Formations Orientées Métiers</h3>
+                <p>Nos formations sont centrées autour de la réalisation de projets concrets.</p>
+            </div>
+
+            <div class="feature">
+                <img src="images/formations_expertises.jpg" alt="Formations expertises">
+                <h3>Formations Expertises</h3>
+                <p>Développement de compétences adaptées aux tendances du marché.</p>
+            </div>
+
+            <div class="feature">
+                <img src="images/formateurs_internationaux.jpg" alt="Formateurs internationaux">
+                <h3>Formateurs Internationaux</h3>
+                <p>Obtenez des certifications internationales et apprenez auprès des meilleurs.</p>
+            </div>
+
+            <div class="feature">
+                <img src="images/cadre_ideal.jpg" alt="Cadre idéal">
+                <h3>Cadre Idéal</h3>
+                <p>Un environnement propice à l’apprentissage et à l’innovation.</p>
+            </div>
+         </section>
+        </section>
+        <section>
+                <header>
+                    <h1>Nos formations expertises</h1>
+                    <p>+30 Formations d'expertises</p>
+                    <button class="discover">Découvrir tous nos programmes</button>
+                </header>
+            
+                <main>
+                    <section class="formations">
+                        <div class="formation">
+                            <img src="images/marketing_community.jpg" alt="Marketing Digital - Community Management">
+                            <h3>Marketing Digital - Community Management</h3>
+                            <p>Niveau : Tous Niveaux</p>
+                            <button class="cta">DÉCOUVRIR LA FORMATION</button>
+                        </div>
+            
+                        <div class="formation">
+                            <img src="images/marketing_tunnel.jpg" alt="Marketing Digital - Tunnel de ventes">
+                            <h3>Marketing Digital - Tunnel de ventes</h3>
+                            <p>Niveau : Tous Niveaux</p>
+                            <button class="cta">DÉCOUVRIR LA FORMATION</button>
+                        </div>
+            
+                        <div class="formation">
+                            <img src="images/adobe_illustrator.jpg" alt="Création graphique - Adobe Illustrator">
+                            <h3>Création graphique - Adobe Illustrator</h3>
+                            <button class="cta">DÉCOUVRIR LA FORMATION</button>
+                        </div>
+            
+                        <div class="formation">
+                            <img src="images/adobe_xd.jpg" alt="Création graphique - UX/UI avec Adobe XD">
+                            <h3>Création graphique - UX/UI avec Adobe XD</h3>
+                            <button class="cta">DÉCOUVRIR LA FORMATION</button>
+                        </div>
+            
+                        <div class="formation">
+                            <img src="images/javascript.jpg" alt="Développement JavaScript">
+                            <h3>Développement JavaScript</h3>
+                            <button class="cta">DÉCOUVRIR LA FORMATION</button>
+                        </div>
+                    </section>
+            
+        </section>
+        <section>
+                <header>
+                    <h1>Nos formations métiers</h1>
+                    <p>+45 Formations métiers</p>
+                    <button class="discover">Découvrir tous nos programmes</button>
+                </header>
+            
+                <main>
+                    <section class="formations">
+                    <div class="info-box">
+                                <h2>Formations Orientées métiers</h2>
+                                <p>Nos formations sont centrées autour de la réalisation de projets concrets.</p>
+                            </div>
+                    </section>
+        </section>
